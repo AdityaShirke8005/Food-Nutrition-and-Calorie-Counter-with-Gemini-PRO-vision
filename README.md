@@ -13,13 +13,10 @@ This repository utilizes the Gemini PRO-vision model to analyze meal images and 
 ## Example Screenshots
 
 ![Screenshot 1](op1.png)
-*Caption for Screenshot 1.*
 
 ![Screenshot 2](op2.png)
-*Caption for Screenshot 2.*
 
 ![Screenshot 3](/op3.png)
-*Caption for Screenshot 3.*
 
 ## Getting Started
 
@@ -28,5 +25,17 @@ This repository utilizes the Gemini PRO-vision model to analyze meal images and 
 - Python 3.10
 - Install required Python packages:
 
+### Requirements
+
+The application requires the following dependencies:
+
+- streamlit
+- google-generativeai
+- PIL (Python Imaging Library)
+- python-dotenv
+
   ```bash
   pip install -r requirements.txt
+
+Feel free to customize and extend the application based on your specific requirements.
+
