@@ -12,13 +12,13 @@ This repository utilizes the Gemini PRO-vision model to analyze meal images and 
 
 ## Example Screenshots
 
-![Screenshot 1](path/to/screenshot1.png)
+![Screenshot 1](op1.png)
 *Caption for Screenshot 1.*
 
-![Screenshot 2](path/to/screenshot2.png)
+![Screenshot 2](op2.png)
 *Caption for Screenshot 2.*
 
-![Screenshot 3](path/to/screenshot3.png)
+![Screenshot 3](/op3.png)
 *Caption for Screenshot 3.*
 
 ## Getting Started
