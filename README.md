@@ -8,7 +8,6 @@ This repository utilizes the Gemini PRO-vision model to analyze meal images and 
 - **Nutritional Analysis**: Gemini PRO-vision model performs inference to calculate the total nutritional content.
 - **Calorie Count**: The system provides an accurate calorie count for the uploaded meal.
 - **Food Combinations**: Users receive suggestions for well-balanced food combinations based on the analyzed meal.
-- **Example Screenshots**: Integrated example screenshots showcasing the model's inference results.
 
 ## Example Screenshots
 
